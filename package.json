@@ -1,0 +1,27 @@
+{
+  "name": "@wweeddoo/gar_cas_client",
+  "version": "1.1.15",
+  "description": "Client CAS pour les distributeurs de ressource GAR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wweeddooPublic/wdo-GAR_CAS_client.git"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "xml2js": "^0.4.8"
+  },
+  "devDependencies": {
+    "express": "^4.12.3",
+    "express-session": "^1.11.1"
+  },
+  "author": "spart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wweeddooPublic/wdo-GAR_CAS_client/issues"
+  },
+  "homepage": "https://github.com/wweeddooPublic/wdo-GAR_CAS_client#readme"
+}
